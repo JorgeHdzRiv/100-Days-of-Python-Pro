@@ -1,5 +1,5 @@
 """
-Instruciones para ejecutar el programa:
+Instruciones para el programa:
 1. Crea un saludo para tu programa.
 2. Pide al usuario la ciudad en la que creció y almacénala en una variable.
 3. Pide al usuario el nombre de una mascota y almacénalo en una variable.
