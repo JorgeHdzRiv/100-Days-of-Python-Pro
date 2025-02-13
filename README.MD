@@ -8,10 +8,7 @@ Cada carpeta contiene un proyecto diferente que corresponde a uno de los días d
 
 ### Estructura del Proyecto
 
-- **project_1_hello_world**: Introducción a Python, sintaxis básica, variables y operadores.
-- **project_2_calculator**: Desarrollo de una calculadora básica utilizando funciones y estructuras de control.
-- **project_3_web_scraping**: Un scraper básico para extraer información de páginas web.
-- **project_4_tkinter_app**: Creación de una aplicación gráfica simple con `Tkinter`.
+- **[project_1_band_name_generator](./p1_band_name)**: Introducción a Python, sintaxis básica,inputs,prints y variables.
 
 ### Tecnologías Usadas
 
@@ -30,7 +27,7 @@ Cada carpeta contiene un proyecto diferente que corresponde a uno de los días d
 
 2. Navega a la carpeta de un proyecto específico:
     ```bash
-    cd project_1_hello_world
+    cd p1_band_name
     ```
 
 3. Ejecuta el archivo Python correspondiente:
