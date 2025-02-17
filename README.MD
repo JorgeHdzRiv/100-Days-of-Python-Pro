@@ -9,6 +9,7 @@ Cada carpeta contiene un proyecto diferente que corresponde a uno de los días d
 ### Estructura del Proyecto
 
 - **[project_1_band_name_generator](./p1_band_name)**: Introducción a Python, sintaxis básica,inputs,prints y variables.
+- **[project_2_tip_calculator](./p2_tip_calculator/)**: Tipos de datos, Type errors, operaciones matematicas y manipulacion de numeros y variables numericas.
 
 ### Tecnologías Usadas
 
