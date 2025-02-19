@@ -11,9 +11,13 @@ Cada carpeta contiene un proyecto diferente que corresponde a uno de los días d
 
 ### Estructura del Proyecto
 
-- **[project_1_band_name_generator](./p1_band_name)**: Introducción a Python, sintaxis básica,inputs,prints y variables.
-- **[project_2_tip_calculator](./p2_tip_calculator/)**: Tipos de datos, Type errors, operaciones matematicas y manipulacion de numeros y variables numericas.
-- **[project_3_treasure_island](./p3_treasure_island/)**: Sentencias condicionales, Operadores logicos,Modulo, Bloques de codigo, Ambito global y local.
+#### Proyectos dias del 1 al 10
+
+- **[project_1_band_name_generator](./days_1_10/p1_band_name/main.py)**: Introducción a Python, sintaxis básica,inputs,prints y variables.
+- **[project_2_tip_calculator](./days_1_10/p2_tip_calculator/main.py)**: Tipos de datos, Type errors, operaciones matematicas y manipulacion de numeros y variables numericas.
+- **[project_3_treasure_island](./days_1_10/p3_treasure_island/main.py)**: Sentencias condicionales, Operadores logicos,Modulo, Bloques de codigo, Ambito global y local.
+- **[project_4_rock_paper_scissors](./days_1_10/p4_rock_paper_scissors/main.py)**: Randomizacion,listas de Python, Index Errors
+- **[project_5_password_generator](./days_1_10/p5_password_generator/main.py)**: Ciclos For, Rangos y codigos de bloque, funcion modulo random
 
 ### Tecnologías Usadas
 
