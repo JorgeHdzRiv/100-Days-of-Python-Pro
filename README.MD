@@ -18,6 +18,7 @@ Cada carpeta contiene un proyecto diferente que corresponde a uno de los días d
 - **[project_3_treasure_island](./days_1_10/p3_treasure_island/main.py)**: Sentencias condicionales, Operadores logicos,Modulo, Bloques de codigo, Ambito global y local.
 - **[project_4_rock_paper_scissors](./days_1_10/p4_rock_paper_scissors/main.py)**: Randomizacion,listas de Python, Index Errors
 - **[project_5_password_generator](./days_1_10/p5_password_generator/main.py)**: Ciclos For, Rangos y codigos de bloque, funcion modulo random
+- **[project_6_escaping_the_maze](./days_1_10/p6_escaping_maze/main.py)**: Ciclos While y Funciones
 
 ### Tecnologías Usadas
 
